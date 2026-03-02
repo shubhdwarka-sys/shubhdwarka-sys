@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Shubh 👋
 
-<!--
-**shubhdwarka-sys/shubhdwarka-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Operations & RTO Background  
+📍 India | 📧 shubh.dwarka@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔄 Transitioning from Operations/RTO to Data Analytics
+- 📊 Learning: Excel | SQL | Power BI | Python | Gen AI
+- 🎓 Target: Microsoft PL-300 Certification
+- 💡 Focused on: Business Dashboards, KPI Reporting, MIS
+
+---
+
+## 🛠️ Skills In Progress
+| Tool | Level |
+|------|-------|
+| Excel (MIS, Pivot) | ⭐⭐⭐ Intermediate |
+| SQL (SELECT, JOIN) | ⭐⭐ Learning |
+| Power BI | ⭐⭐ Learning |
+| Python (Pandas) | ⭐ Beginner |
+| Gen AI / Prompting | ⭐⭐ Learning |
+
+---
+
+## 📁 Projects
+> Coming Soon — Building my portfolio!
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/subhash-adhikari-9328b238a/
